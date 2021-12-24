@@ -1,0 +1,32 @@
+
+
+#
+
+integer a;
+integer b;
+integer c;
+
+a = 2;
+b = 5;
+/*
+c = 3;
+
+a = a + b;
+a = b - c;
+b = c / a;
+c = a / b;
+*/
+
+if (a >= b) {
+    a = a + b
+} else {
+    a = 4;
+} endif
+
+
+while (a >= 2) {
+    a = a - 1;
+    put(b - a);
+    get(a);
+}
+#

@@ -1,0 +1,32 @@
+while(x==2)
+{
+%%
+real z;
+integer k;
+q = 2.25;
+r = 3.61;
+}
+m = 0;
+#
+if (truthy != 0) {
+k = k + 1;
+m = k + 4;
+y = 7.12
+}
+
+while (q => 2) {
+    var = 2;
+    %%%%
+}
+
+if (var <= 25) {
+    var2 = 3;
+}
+function talk(robot integer)
+{
+    return 5 * (robot-32) / 9;
+}
+/* should not read comment */
+
+( $@~ )
+$@~ 

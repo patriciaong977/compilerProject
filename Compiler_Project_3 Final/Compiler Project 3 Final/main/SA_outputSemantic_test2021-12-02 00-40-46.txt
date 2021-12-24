@@ -1,0 +1,58 @@
+Instruction   Type             Operand     
+1             PUSHI         2           
+2             POPM          7000        
+3             PUSHI         5           
+4             POPM          7001        
+5             PUSHM         7000        
+6             POPM          7003        
+7             PUSHM         7001        
+8             POPM          7004        
+9             PUSHM         7003        
+10            PUSHM         7004        
+11            GRT           nil         
+12            PUSHM         7003        
+13            PUSHM         7004        
+14            EQU           nil         
+15            ADD           nil         
+16            PUSHI         2           
+17            EQU           nil         
+18            JUMPZ         24          
+19            PUSHM         7000        
+20            PUSHM         7001        
+21            ADD           nil         
+22            POPM          7000        
+23            JUMP          26          
+24            PUSHI         4           
+25            POPM          7000        
+26            LABEL                     
+27            PUSHM         7000        
+28            POPM          7006        
+29            PUSHI         2           
+30            POPM          7007        
+31            PUSHM         7006        
+32            PUSHM         7007        
+33            GRT           nil         
+34            PUSHM         7006        
+35            PUSHM         7007        
+36            EQU           nil         
+37            ADD           nil         
+38            PUSHI         2           
+39            EQU           nil         
+40            JUMPZ         52          
+41            PUSHM         7000        
+42            PUSHI         1           
+43            SUB           nil         
+44            POPM          7000        
+45            PUSHM         7001        
+46            PUSHM         7000        
+47            SUB           nil         
+48            STDOUT                    
+49            STDIN                     
+50            POPM          7000        
+51            JUMP          26          
+
+Identifier    MemoryLocation   Type        
+a             7000             integer     
+b             7001             integer     
+c             7002             integer     
+

@@ -1,0 +1,45 @@
+function linkedlist (node real, pointer integer, value real)
+{
+    linear = 1011010; 
+    return linear + 51.22 * 2.123 - node;
+}
+
+function dollar(penny integer)
+{
+    cash = 7.2221;
+    change = cash + penny + 30.21; 
+    return linkedlist(node, change, cash); 
+}
+
+#
+
+real j, k; 
+
+k = 200; 
+while (j == true) {
+    if (k < 200 ) {
+        k = k -1; 
+        get(twoHundred, times); 
+        if (k == 0) {
+            j = false; 
+            get(youAreDone, congrats, seeYa); 
+            if (j == false)
+                getOut = false; 
+            endif
+        }
+        else {
+            k = k - 5; 
+            put(25 + Jay);
+        }
+        endif
+    }
+    else {
+        put(ASM + 57.42 + 99);
+        getOut = true; 
+    }
+    endif
+}
+
+
+
+#

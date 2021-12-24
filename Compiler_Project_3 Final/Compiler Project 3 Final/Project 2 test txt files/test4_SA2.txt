@@ -1,0 +1,52 @@
+function preprocessor (chip real)
+{
+    sourceFile = 1011010; 
+    return chip + sourceFile * 2.123;
+}
+
+function tree(node integer)
+{
+    stack = 72.4;
+    node = node + stack; 
+    return preprocessor(node); 
+}
+
+#
+
+integer j, k; 
+
+a = -j;  
+b = k * b;  
+
+while (a >= 2) {
+    a = a - 1;
+    put(subtracting);
+    get(input);
+}
+
+put(top);
+put(mid);
+put(bot);
+
+top = 9.72;
+bot = 1000;
+
+if (top != 0) {
+    top = top - 2.72;
+    yes = bot - 500;
+    if (yes == 0) {
+        no = 50
+        put(mid);
+    }
+    endif
+}
+
+else {
+    zebra = 700;
+    zoo = zebra / 68.21;
+}
+
+endif
+
+
+#

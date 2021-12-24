@@ -1,0 +1,55 @@
+function convert1x (fahr integer)
+{
+    return 5 * (fahr -32) / 9;
+}
+
+function talk(robot integer)
+{
+    return 5 * (robot-32) / 9;
+}
+
+#
+
+real a, f;
+integer b;
+
+a = -b;  
+b = x * b;  
+
+while (x == 2) {
+    f = p + w;
+    f = p + w;
+}
+
+get (low, high, step);
+
+while (low  <=  high )  
+    {  put (low);
+        while (low < 2) {
+            low = low + 1;
+        }
+        put (convert1x (low));
+        low =  low  +  step;
+    } 
+
+if (u != 0) {
+    cout = false;
+    cin = 21;
+    if (cout == false) {
+        cout = true;
+        cin = cin + 200;
+    }
+    endif
+}
+endif
+
+get (x);
+put (x + a);
+
+if (b >= 10) 
+    q = u + 2;
+else 
+    z = r / 2;
+endif
+
+#

@@ -1,0 +1,20 @@
+/* if else statement */
+if (n != 2) n = true;
+else n = 0;
+while 
+)
+;
+boolean true;
+a = 123;
+make(c);
+/
+x785
+Y_28s_T5
+12345
+7895
+2.55
+3.21
+10
+if (i = 0)
+b = x + y;
+# this will error out
