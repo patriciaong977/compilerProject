@@ -15,6 +15,7 @@ The problem statement is such, given a source code file:
 4. Finally, use the intermediate code generation and other final processes to finalize the compiler and have it create a working program for execution of the source code file. 
 
 **In the design of the program,** we wrote the REs for Identifiers, Real and Integer, and show the NFSM using Thompson. 
+
 ![image](https://user-images.githubusercontent.com/23037963/218324310-ae39c0a2-24a4-4e4a-a4bf-c2bf224b6511.png)
 ![image](https://user-images.githubusercontent.com/23037963/218324350-43213375-7623-4a40-8fc9-3ce42b873be7.png)
 
